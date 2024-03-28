@@ -1,0 +1,4 @@
+/mnt/scratch1/Touchstone_data/new_data/Xenium_Prostate_9224_Rep1
+/mnt/scratch1/Touchstone_data/new_data/Xenium_Prostate_9224_Rep2
+/mnt/scratch1/Touchstone_data/new_data/Xenium_Breast_4399_Run1
+/mnt/scratch1/Touchstone_data/new_data/Xenium_Breast_4399_Run2
